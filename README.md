@@ -16,3 +16,9 @@ Theres also a sh file in bin dir, you can use it like this:
 
     $> chmod +x bin/bddd
     $>./bin/bddd
+
+
+Screenshot
+===
+
+<img src="https://github.com/ignacy/BDDDebugLogBrowser/raw/master/screenshot.png" alt="https://github.com/ignacy/BDDDebugLogBrowser/raw/master/screenshot.png" />
